@@ -1,0 +1,47 @@
+case_id	case_submitter_id	project_id	relationship_age_at_diagnosis	relationship_gender	relationship_primary_diagnosis	relationship_type	relative_deceased	relative_smoker	relative_with_cancer_history	relatives_with_cancer_history_count
+0251b915-6bf6-43a3-b3a3-aadbac0be13f	HCM-BROD-0204-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+0286c31b-a704-4d7d-99e3-0bc4e8975b8b	HCM-CSHL-0084-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+03bfeb7c-cecf-4691-8263-33cdfe391ea9	HCM-BROD-0124-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+13f667da-a66b-4622-9e6a-b3e861e96961	HCM-BROD-0232-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+17f4b889-d7b9-42d1-adb8-cbad65a56547	HCM-CSHL-0176-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+18909e2d-a178-49b3-9a70-998f944af8a3	HCM-BROD-0009-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+19f1d344-4c14-4733-abbd-c2db6737e210	HCM-CSHL-0081-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+1ae8657f-477f-4e1a-aef2-dd1c1ab5f26a	HCM-BROD-0231-C25	HCMI-CMDC	'--	'--	Pancreas Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+2127626f-247f-4c47-b096-a876f08db1a0	HCM-SANG-0315-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+22f26b5c-41b7-4142-9d87-6cf8b7fee3af	HCM-BROD-0229-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+27e13777-6ed1-4411-a935-245ba6953cf5	HCM-CSHL-0079-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+359ca5c2-0d00-4b88-be2d-476e6b4c02ef	HCM-BROD-0016-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+3b348a82-127f-42ac-bc41-c55fdf8cac7a	HCM-CSHL-0080-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+45f60f6f-3ee8-4da5-b3de-bd5e29b25198	HCM-BROD-0138-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+489ae53c-0c19-433b-b22d-8dc09f2161be	HCM-CSHL-0180-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+4c48e9c9-5f8f-43e2-a972-367b260b40eb	HCM-CSHL-0179-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+53159c56-0604-455c-8efc-db9cdaa7642c	HCM-BROD-0230-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+5c2bff0f-0e8e-4d98-83c5-0d9ab866241a	HCM-BROD-0019-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+5d47d75b-1c71-4864-a2d9-b7f55967c6f4	HCM-BROD-0010-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+64a54aa5-ce7c-4002-87f8-3b61f912104a	HCM-CSHL-0088-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+653a556f-c127-421d-8118-4bf98929fe53	HCM-CSHL-0078-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+6548cb23-ee55-47c2-811a-156a090fbaee	HCM-CSHL-0076-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+6796ddd8-0295-4965-911c-d4ad67232d13	HCM-CSHL-0091-C25	HCMI-CMDC	'--	'--	Pancreas Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+6a8427ec-14cc-4168-a536-12c8ad27ba89	HCM-CSHL-0093-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+6e3a1f73-d16b-4dc8-acc2-ae452eec1bbd	HCM-CSHL-0405-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+6fd57448-daf9-4d8c-9cbc-88e53b246932	HCM-CSHL-0177-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+74250d5d-e275-4315-8775-589aa79c7fac	HCM-BROD-0344-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	unknown	'--
+77163cf2-4651-475f-9d60-4306c1712ed7	HCM-CSHL-0073-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+7cdc52da-546a-4318-adb8-00ade0a941db	HCM-BROD-0122-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+93d1a30b-21c8-4cf7-9d51-49f6e03ef679	HCM-BROD-0132-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+9d03a2ac-ff8d-4017-b482-ece0c9eec5ed	HCM-CSHL-0075-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+9e615018-8669-4dd6-8265-25e766a34dd0	HCM-CSHL-0090-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+9f4d122a-e88e-433f-85a7-dbc4060ec7b8	HCM-CSHL-0730-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+c5e8675b-6d0b-485c-9dd7-8bfb59b5c44a	HCM-CSHL-0082-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+c5e9a845-e0ff-4612-aa8e-c310098503a7	HCM-CSHL-0089-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+cf4e22e6-18dc-4a1b-a1d3-1c9ceddd232d	HCM-BROD-0015-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+d4850437-8b6e-4b6f-a636-2c0068a14121	HCM-CSHL-0183-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+d7fc5874-8ae0-4357-9d8d-01af39ee521f	HCM-CSHL-0092-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+ddba0c54-930d-4dc4-b74f-48e29961c945	HCM-CSHL-0728-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+e3b32485-b204-43a7-93a5-601408fcdf96	HCM-CSHL-0074-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+ecf740ab-ecd5-4a85-94be-e0610463c72f	HCM-CSHL-0077-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+ee35fde8-183f-48d2-b4ea-460c40445daa	HCM-CSHL-0184-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+f6824107-f92f-47fc-930a-cbe3bfe58895	HCM-CSHL-0182-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+fb50c60e-d191-474b-a5eb-19b922db6688	HCM-CSHL-0094-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
+fd64b6a9-39e8-4e27-bb73-84110ab0d328	HCM-BROD-0125-C25	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+fed59220-5e35-439c-ae0b-3dcb1fad165e	HCM-CSHL-0059-C25	HCMI-CMDC	'--	'--	'--	First Degree Relative, NOS	'--	'--	no	'--
